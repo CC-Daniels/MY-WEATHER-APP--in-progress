@@ -1,13 +1,14 @@
 body {
   font-family: sans-serif;
   background-color: #adb7da;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 h1 {
   color: #b21ec0;
   font-size: 24px;
-  font-weight: 100;
+  font-weight: 300px;
   line-height: 28px;
-  margin: 0s;
+  margin: 0;
 }
 ul {
   margin: 0;
@@ -29,6 +30,7 @@ li {
   margin: 25px auto;
   max-width: 900px;
   border-radius: 20px;
+  background-color: #ded7e6;
 }
 
 .temperature {
@@ -38,10 +40,13 @@ li {
   font-weight: 400;
   line-height: 1;
 }
+
 p {
   text-align: center;
-  color: #bbc9c9;
+  color: #b21ec0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+
 .humidity {
   color: #008080;
 }
