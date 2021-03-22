@@ -1,8 +1,9 @@
 body {
   font-family: sans-serif;
+  background-color: #adb7da;
 }
 h1 {
-  color: #878787;
+  color: #b21ec0;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -14,7 +15,7 @@ ul {
 }
 
 li {
-  color: #202124;
+  color: #1041d6;
   display: block;
   font-size: 16px;
   font-weight: 400;
